@@ -1,0 +1,28 @@
+{
+  "name": "magnammollitia",
+  "version": "1.0.0",
+  "description": "A high-performance JavaScript 2D/3D polyline simplification library",
+  "author": "EliseoDooley",
+  "keywords": [
+    "math",
+    "possimus",
+    "tenetur",
+    "quam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaceyKreiger/magnammollitia.git"
+  },
+  "main": "simplify.js",
+  "devDependencies": {
+    "benchmark": "^1.0.0",
+    "faucet": "0.0.1",
+    "jshint": "^2.6.3",
+    "tape": "^3.5.0"
+  },
+  "jshintConfig": {
+    "quotmark": "single",
+    "trailing": true,
+    "unused": true
+  }
+}
